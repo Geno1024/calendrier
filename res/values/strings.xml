@@ -3,5 +3,9 @@
 
     <string name="hello">Hello World, MainActivity!</string>
     <string name="app_name">Calendrier</string>
+	<string name="datesw">显示日历</string>
+	<string name="date">名称</string>
+	<string name="dtos">转为名称↑</string>
+	<string name="stod">转为日期↓</string>
 
 </resources>
